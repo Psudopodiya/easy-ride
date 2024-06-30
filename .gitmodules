@@ -1,0 +1,6 @@
+[submodule "chatty-backend"]
+	path = easy-ride-backend
+	url = https://github.com/Psudopodiya/easy-ride-backend
+[submodule "chatty-frontend"]
+	path = easy-ride-frontend
+	url = https://github.com/Psudopodiya/easy-ride-frontend
